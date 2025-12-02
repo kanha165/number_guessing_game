@@ -1,2 +1,2 @@
 # Numer_guessing_game
-A simple Python number guessing game where the computer picks a random number  and the user tries to guess it.
+A simple Python number guessing game where the computer picks a random number  and the user tries to guess it...
