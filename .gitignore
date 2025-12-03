@@ -22,8 +22,4 @@ Thumbs.db
 *.log
 *.sqlite3
 
-# Python egg files
-*.egg
-*.egg-info/
-dist/
-build/
+
